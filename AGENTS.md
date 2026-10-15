@@ -1,4 +1,4 @@
-# OpenRX Lite
+# DroneAid OpenRX Lite
 
 Open-source 2.4 GHz ExpressLRS receiver. An ESP32-C3 controls an SX1281 radio;
 the ELRS link terminates in an on-board ceramic antenna, while a separate

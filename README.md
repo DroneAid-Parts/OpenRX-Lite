@@ -1,12 +1,16 @@
-# OpenRX Lite
+<p align="center">
+  <img src="images/droneaid-logo.svg" width="154" height="30" alt="DroneAid" />
+</p>
 
-Open-source 2.4 GHz ExpressLRS receiver for small FPV aircraft. OpenRX Lite
+# DroneAid OpenRX Lite
+
+Open-source 2.4 GHz ExpressLRS receiver for small FPV aircraft. DroneAid OpenRX Lite
 combines an ESP32-C3 and SX1281 with an on-board ceramic link antenna in a
 10.0 x 11.5 mm board.
 
 <p>
-<img src="images/front.png" width="400" alt="OpenRX Lite front" />
-<img src="images/back.png" width="400" alt="OpenRX Lite back" />
+<img src="images/front.png" width="400" alt="DroneAid OpenRX Lite front" />
+<img src="images/back.png" width="400" alt="DroneAid OpenRX Lite back" />
 </p>
 
 [![Status](https://img.shields.io/endpoint?url=https://opendrone.be/api/status/OpenRX-Lite.json)](https://github.com/OpenDrone-hw/.github/blob/main/CONTRIBUTING.md#the-life-of-a-project)
